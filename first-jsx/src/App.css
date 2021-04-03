@@ -1,0 +1,14 @@
+.App {
+  background-color: black;
+  padding: 10px;
+  color: lightgray;
+}
+
+h2 {
+  text-decoration: underline;
+  color: lightslategray;
+}
+
+.lightslategray {
+  color: lightslategray;
+}
