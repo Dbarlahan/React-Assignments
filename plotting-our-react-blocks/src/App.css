@@ -1,0 +1,54 @@
+*{ 
+  margin: 10px;
+  padding: 0px;
+}
+
+.App {
+  background-color: #dddddd;
+  width: 900px;
+  padding: 10px;
+  margin: 0px auto;
+  border: 3px solid black;
+}
+
+.Header {
+  background-color: #6aa84f;
+  width: 870px;
+  min-height: 130px;
+  border: 3px solid black;
+}
+
+.Navigation {
+  background-color: #6fa8dc;
+  min-height:315px;
+  width: 190px;
+  display: inline-block;
+  border: 3px solid black;
+}
+
+.Main {
+  background-color: #e06666;
+  display: inline-block;
+  vertical-align: top;
+  width: 645px;
+  padding: 5px;
+  border: 3px solid black;
+}
+
+.SubContents {
+  background-color: #ffd966;
+  min-height: 230px;
+  width: 158px;
+  display: inline-block;
+  padding: 10px;
+  margin: 15px;
+  border: 3px solid black;
+}
+
+.Advertisement {
+  background-color: #b4a7d6;
+  min-height: 110px;
+  width: 605px;
+  margin: 0px 15px 15px 15px;
+  border: 3px solid black;
+}
